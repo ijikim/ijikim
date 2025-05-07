@@ -44,7 +44,7 @@
   <br/>
   
 ## 👩🏻 About Me
-<a href="https://blog.naver.com/always_so_easy_day" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-000?style=social&logo=naver&logoColor=03C75A"/></a>  
+<a href="https://blog.naver.com/always_so_easy_day" target="_blank"><img src="https://img.shields.io/badge/NaverBlog-000?style=social&logo=naver&logoColor=03C75A"/></a>
 <a href="https://www.instagram.com/ixi.zip" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?style=social&logo=instagram&logoColor=E4405F"/></a>
 
 </div>
