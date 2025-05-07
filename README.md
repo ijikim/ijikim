@@ -23,6 +23,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=FFF" alt="CSS3"/>
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=000" alt="JavaScript"/>
+  <!-- jQuery -->
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" alt="jQuery"/>
   <!-- React -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000" alt="React"/>
   <!-- Tailwind CSS -->
