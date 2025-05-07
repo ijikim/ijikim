@@ -25,6 +25,8 @@
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=000" alt="JavaScript"/>
   <!-- jQuery -->
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" alt="jQuery"/>
+  <!-- Swiper -->
+  <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat&logo=swiper&logoColor=white" alt="Swiper"/>
   <!-- React -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000" alt="React"/>
   <!-- TypeScript -->
