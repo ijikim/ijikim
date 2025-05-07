@@ -37,6 +37,8 @@
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=FFF" alt="Tailwind CSS"/>
   <!-- GitHub -->
   <img src="https://img.shields.io/badge/GitHub-EAEAEA?style=flat&logo=github&logoColor=000" alt="GitHub"/>
+  <!-- Figma -->
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/>
 </p>
   
   <br/>
